@@ -1,0 +1,8 @@
+streamlit>=1.38.0
+plotly>=5.22.0
+pandas>=2.1.0
+numpy>=1.26.0
+geopandas>=0.14.0
+shapely>=2.0.0
+pyogrio>=0.7.2
+pyproj>=3.6.0
