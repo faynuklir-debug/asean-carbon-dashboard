@@ -1,5 +1,0 @@
-commodity_class,mean_abs_shap_local,mean_abs_shap_upwind,mean_abs_shap_combined,mean_signed_shap_combined,pct_cells_lower_ghg_assoc,slx_beta_local,slx_theta_upwind
-area_cropland,0.003140,0.000570,0.003394,0.000305,39.195621,0.001096,0.001201
-area_treecover,0.001120,0.000662,0.001493,-0.000019,54.051642,0.000730,0.001249
-area_shrubgrass,0.000630,0.000913,0.000990,-0.000083,49.113517,0.000144,-0.000680
-area_mangrove,0.000198,0.000749,0.000810,0.000000,46.132794,-0.000428,0.000055
